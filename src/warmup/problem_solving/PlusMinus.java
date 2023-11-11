@@ -15,9 +15,9 @@ public class PlusMinus {
     public static void plusMinus(List<Integer> arr) {
         int positive = 0, negative = 0, zero = 0;
 
-        for (int i = 0; i<arr.size(); i++){
-            if(arr.get(i) > 0) positive += 1;
-            else if (arr.get(i) < 0) negative += 1;
+        for (Integer integer : arr) {
+            if (integer > 0) positive += 1;
+            else if (integer < 0) negative += 1;
             else zero += 1;
         }
 
