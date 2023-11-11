@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class SolveMeFirst {
+
+    // https://www.hackerrank.com/challenges/solve-me-first/problem
+
     /*
         Complete the solveMeFirst function in the editor below.
         solveMeFirst has the following parameters:

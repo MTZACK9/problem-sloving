@@ -3,6 +3,9 @@ package warmup.problem_solving;
 import java.util.List;
 
 public class SimpleArraySum {
+
+    // https://www.hackerrank.com/challenges/simple-array-sum/problem
+
     /*
      * Complete the 'simpleArraySum' function below.
      *
