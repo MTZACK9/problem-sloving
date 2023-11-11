@@ -23,7 +23,5 @@ public class NumberLineJumps {
         return (v1 >= v2 && s == 0) ? "YES" : "NO";
     }
 
-    public static void main(String[] args) {
-        System.out.println(kangaroo(0, 2 ,5, 3));
-    }
+
 }
