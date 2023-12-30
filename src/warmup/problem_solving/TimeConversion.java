@@ -2,8 +2,6 @@ package warmup.problem_solving;
 
 import java.util.Objects;
 
-import static java.util.Objects.*;
-
 public class TimeConversion {
 
     // https://www.hackerrank.com/challenges/time-conversion/problem
